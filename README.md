@@ -272,7 +272,7 @@ optical_mj/
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/seu-usuario">
+      <a href="https://github.com/Diyanderson">
         <img src="https://github.com/seu-usuario.png" width="100px;" alt="Foto do Autor"/><br>
         <sub><b>Anderson Alves dos Santos</b></sub>
       </a>
