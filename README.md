@@ -1,16 +1,35 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/CUDA-GPU%20Accelerated-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License"/>
-  <img src="https://img.shields.io/badge/Nature-2025-green?style=for-the-badge" alt="Nature 2025"/>
+  <img src="https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-GPU%20Accelerated-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nature-2025-green?style=for-the-badge"/>
 </p>
 
-<h1 align="center">
-  🔬 D²NN Digital Twin
-  <br>
-  <sub>Gêmeo Digital para Computação Óptica Generativa</sub>
-</h1>
+<h1 align="center">🔬 D²NN Digital Twin</h1>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="michael-jackson.gif" width="180" alt="Principal"/><br>
+      <sub><b>🔬 MJ Original</b></sub>
+    </td>
+    <td align="center">
+      <img src="optical_mj/target.gif" width="180" alt="MJ Original"/><br>
+      <sub><b>🎬 MJ Invertido</b></sub>
+    </td>
+    <td align="center">
+      <img src="optical_fader/output.gif" width="180" alt="Fader Count"/><br>
+      <sub><b>🔬 Fader Count</b></sub>
+    </td>
+    <td align="center">
+      <img src="optical_mj/output.gif" width="180" alt="MJ Óptico"/><br>
+      <sub><b>⚡ MJ Óptico</b></sub>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">Gêmeo Digital para Computação Óptica Generativa</h3>
 
 <p align="center">
   <strong>Simulador de alta fidelidade para Redes Neurais Difrativas (D²NN) com física rigorosa de propagação óptica</strong>
@@ -24,6 +43,7 @@
   <a href="#-instalação">Instalação</a> •
   <a href="#-referências">Referências</a>
 </p>
+
 
 ---
 
