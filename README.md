@@ -439,8 +439,8 @@ d2nn-digital-twin/
       </a>
     </td>
     <td>
-      <b>🏥 Profissão:</b> Téc. Eletrônico/Qualidade - Engenheiria Clínica @ Hospital Moinhos de Vento (10+ anos)<br>
-      <b>🎓 Formação:</b> Eng. Elétrica(incomplet) - PUCRS/Eletrônica - CTPE Parobé<br>
+      <b>🏥 Profissão:</b> Téc. Eletrônico/Qualidade - Engenharia Clínica @ Hospital Moinhos de Vento(10+yrs)<br>
+      <b>🎓 Formação:</b> Eng. Elétrica(incomplet)-PUCRS / Eletrônica-CTPE Parobé / Impressão 3D Total/Anhanguera-Grupo Cogna<br>
       <b>📚 Formação:</b> IA & Machine Learning - Uniasselvi (2025)(andamento)<br>
       <b>📄 Publicações:</b> 3 artigos no Global Clinical Engineering Journal<br>
       <br>
