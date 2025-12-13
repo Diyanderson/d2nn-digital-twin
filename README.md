@@ -208,10 +208,10 @@ pip install numpy matplotlib imageio scikit-image pillow
 
 ### Google Colab (Recomendado)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Diyanderson/d2nn-digital-twin/blob/main/D2NN_DigitalTwin_OpticalComputing.ipynb)
 
-1. Faça upload do notebook `D2NN_DigitalTwin_OpticalComputing.ipynb`
-2. Selecione **Runtime > Change runtime type > GPU**
+1. Clique no badge acima para abrir diretamente no Colab
+2. Selecione **Runtime → Change runtime type → GPU**
 3. Execute todas as células sequencialmente
 
 ### Local
