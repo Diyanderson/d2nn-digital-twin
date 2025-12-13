@@ -1,0 +1,32 @@
+======================================================================
+DOE FABRICATION SPECS - EPOCH_2000
+======================================================================
+
+System:
+  Wavelength: 633 nm
+  Substrate: SiO2 (n=1.46)
+  Grid: 256×256
+  Pixel: 20 µm
+  Layers: 5
+  Laser Power: 20.0 mW
+
+Layer 1:
+  Phase Height: 0.000-1.376 µm
+  Amplitude: T=48.4% (σ=46.5%)
+
+Layer 2:
+  Phase Height: 0.000-1.376 µm
+  Amplitude: T=47.4% (σ=46.3%)
+
+Layer 3:
+  Phase Height: 0.000-1.376 µm
+  Amplitude: T=44.8% (σ=44.6%)
+
+Layer 4:
+  Phase Height: 0.000-1.376 µm
+  Amplitude: T=37.6% (σ=41.3%)
+
+Layer 5:
+  Phase Height: 0.000-1.376 µm
+  Amplitude: T=3.8% (σ=12.5%)
+
