@@ -257,13 +257,13 @@ optical_mj/
 
 ## 📚 Referências
 
-1. **Chen, S. et al.** "Optical generative models." *Nature* 644, 903–910 (2025).  
-   DOI: [10.1038/s41586-025-08519-4](https://www.nature.com/articles/s41586-025-08519-4)
+1. **Chen, S. et al.** "Optical generative models." *Nature* 644(8078), 903–911 (2025).  
+   DOI: [10.1038/s41586-025-09446-5](https://doi.org/10.1038/s41586-025-09446-5)
 
-2. **Lin, X. et al.** "All-optical machine learning using diffractive deep neural networks." *Science* 361, 1004–1008 (2018).  
-   DOI: [10.1126/science.aat8084](https://www.science.org/doi/10.1126/science.aat8084)
+2. **Lin, X. et al.** "All-optical machine learning using diffractive deep neural networks." *Science* 361(6406), 1004–1008 (2018).  
+   DOI: [10.1126/science.aat8084](https://doi.org/10.1126/science.aat8084)
 
-3. **Goodman, J.W.** *Introduction to Fourier Optics.* 3rd ed. Roberts and Company Publishers, 2005.
+3. **Goodman, J. W.** (2005). *Introduction to Fourier optics* (3rd ed.). Roberts & Co. Publishers.
 
 ---
 
