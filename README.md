@@ -439,9 +439,9 @@ d2nn-digital-twin/
       </a>
     </td>
     <td>
-      <b>🏥 Profissão:</b> Engenheiro Clínico @ Hospital Moinhos de Vento (10+ anos)<br>
-      <b>🎓 Formação:</b> Eng. Elétrica/Eletrônica - PUCRS (2005-2007)<br>
-      <b>📚 Pós-Graduação:</b> IA & Machine Learning - Uniasselvi (2025)<br>
+      <b>🏥 Profissão:</b> Técnico Eletrônico/Qualidade - Engenheiria Clínica @ Hospital Moinhos de Vento (10+ anos)<br>
+      <b>🎓 Formação:</b> Eng. Elétrica(incomplet) - PUCRS/Eletrônica - CTPE Parobé<br>
+      <b>📚 Formação:</b> IA & Machine Learning - Uniasselvi (2025)(andamento)<br>
       <b>📄 Publicações:</b> 3 artigos no Global Clinical Engineering Journal<br>
       <br>
       <a href="https://br.linkedin.com/in/anderson-alves-dos-santos-78048388">
